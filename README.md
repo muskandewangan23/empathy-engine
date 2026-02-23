@@ -1,4 +1,4 @@
-# The Empathy Engine
+# The Empathy Engine - AI-powered sentiment-aware expressive speech generator
 
 ## Overview
 The Empathy Engine is an AI-powered service that converts text into emotionally expressive speech.  
