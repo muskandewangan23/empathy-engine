@@ -40,3 +40,7 @@ It detects the sentiment of input text and dynamically adjusts speech delivery t
 - More granular emotion classes
 - Voice selection options
 - Conversation mode
+
+
+---
+Built as part of an AI internship technical assessment.
