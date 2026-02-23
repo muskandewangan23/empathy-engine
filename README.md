@@ -1,11 +1,14 @@
 # Empathy Engine - AI-powered sentiment-aware expressive speech generator
 
+## Live Demo
+[Try the Empathy Engine](https://empathy-engine-new.streamlit.app/)
+
+## App Preview
+![Empathy Engine Screenshot](empathy_engine.png)
+
 ## Overview
 The Empathy Engine is an AI-powered service that converts text into emotionally expressive speech.  
 It detects the sentiment of input text and dynamically adjusts speech delivery to simulate human-like emotional tone.
-
-## Live Demo
-[Try the Empathy Engine](https://empathy-engine-new.streamlit.app/)
 
 ## Features
 - Emotion detection (Positive / Negative / Neutral)
